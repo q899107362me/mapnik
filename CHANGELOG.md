@@ -6,6 +6,16 @@ Developers: Please commit along with changes.
 
 For a complete change history, see the git log.
 
+## Mapnik 4.2.1
+
+Released January 28th, 2026
+
+(Packaged from [855e90428](https://github.com/mapnik/mapnik/commit/855e90428))
+
+- Updated input plug-ins infostructure allowing building both combined (where appropriate e.g 'postgis+pgraster', 'gdal+ogr') and separate ('postgis', 'pgraster', 'gdal', 'ogr') plug-ins.
+
+-- Update Scons to v4.10.1
+
 ## Mapnik 4.2.0
 
 Released December 30th, 2025
