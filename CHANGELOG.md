@@ -10,7 +10,7 @@ For a complete change history, see the git log.
 
 Released January 28th, 2026
 
-(Packaged from [855e90428](https://github.com/mapnik/mapnik/commit/855e90428))
+(Packaged from [441f7adc4](https://github.com/mapnik/mapnik/commit/441f7adc4))
 
 - Updated input plug-ins infostructure allowing building both combined (where appropriate e.g 'postgis+pgraster', 'gdal+ogr') and separate ('postgis', 'pgraster', 'gdal', 'ogr') plug-ins.
 
