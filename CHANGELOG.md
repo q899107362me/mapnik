@@ -14,7 +14,7 @@ Released January 28th, 2026
 
 - Updated input plug-ins infostructure allowing building both combined (where appropriate e.g 'postgis+pgraster', 'gdal+ogr') and separate ('postgis', 'pgraster', 'gdal', 'ogr') plug-ins.
 
--- Update Scons to v4.10.1
+- Update Scons to v4.10.1
 
 ## Mapnik 4.2.0
 
