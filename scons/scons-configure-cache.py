@@ -32,15 +32,15 @@ The files are split into directories named by the first few
 digits of the signature. The prefix length used for directory
 names can be changed by this script.
 """
-__revision__ = "scripts/scons-configure-cache.py 39a12f34d532ab2493e78a7b73aeab2250852790 Thu, 27 Mar 2025 11:44:24 -0700 bdbaddog"
+__revision__ = "scripts/scons-configure-cache.py 055b01f429d58b686701a56df863a817c36bb103 Sun, 16 Nov 2025 14:18:20 -0700 bdbaddog"
 
-__version__ = "4.9.1"
+__version__ = "4.10.1"
 
-__build__ = "39a12f34d532ab2493e78a7b73aeab2250852790"
+__build__ = "055b01f429d58b686701a56df863a817c36bb103"
 
 __buildsys__ = "M1Dog2021"
 
-__date__ = "Thu, 27 Mar 2025 11:44:24 -0700"
+__date__ = "Sun, 16 Nov 2025 14:18:20 -0700"
 
 __developer__ = "bdbaddog"
 
